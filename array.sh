@@ -12,5 +12,3 @@ echo ${arr[1]} + ${arr[5]} | bc
 
 
 echo 
-echo
-echo 
